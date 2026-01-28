@@ -62,6 +62,6 @@ VLANs, UniFi, firewall segmentation, service isolation
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: [(add link)](https://www.linkedin.com/in/mihir-shah-47a39a157/)
+- 💼 LinkedIn: [Mihir Shah](https://www.linkedin.com/in/mihir-shah-47a39a157/)
 
 Always happy to talk infra, SRE, and homelab projects.
